@@ -1,4 +1,4 @@
-angular.module('giskaland').controller('HomeController', [function(){
+angular.module('giskaland').controller('HomeController', ['$scope', function($scope){
 	'use strict';
-	console.log('Loading home controller');
+
 }]);
